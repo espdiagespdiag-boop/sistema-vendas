@@ -1,0 +1,3 @@
+[submodule "facturacao-web"]
+	path = facturacao-web
+	url = https://github.com/Sebastiao-Domingos/facturacao-web.git
